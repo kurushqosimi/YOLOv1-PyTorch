@@ -27,6 +27,7 @@ YOLOv1-PyTorch/
 ├── test_model.py (пример использования модели)
 ├── README.md
 ├── requirements.txt
+├── download-model.py (скачивание обученной модели)
 └── yolo_v1.py (код обучения и единичный тест для него)
 ```
 
